@@ -6,6 +6,7 @@
 int main(){
 	system("@cls");
 	int lado;
+//pulls
 	int perimetro, area;
 	printf("Ingrese el lado del cuadrado: ");
 	scanf("%i",&lado);
